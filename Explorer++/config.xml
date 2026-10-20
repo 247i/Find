@@ -63,7 +63,7 @@
 		<Setting name="SynchronizeTreeview">yes</Setting>
 		<Setting name="TVAutoExpandSelected">yes</Setting>
 		<Setting name="UseFullRowSelect">no</Setting>
-		<Setting name="IconTheme">0</Setting>
+		<Setting name="IconTheme">1</Setting>
 		<Setting name="ToolbarState" Button0="Back" Button1="Forward" Button2="Up" Button3="Separator" Button4="Folders" Button5="Separator" Button6="Cut" Button7="Copy" Button8="Paste" Button9="Delete" Button10="Delete Permanently" Button11="Properties" Button12="Search" Button13="Separator" Button14="New Folder" Button15="Copy To" Button16="Move To" Button17="Separator" Button18="Views" Button19="Open Command Prompt" Button20="Refresh" Button21="Separator" Button22="Bookmark the current tab" Button23="Organize Bookmarks"/>
 		<Setting name="TreeViewDelayEnabled">no</Setting>
 		<Setting name="TreeViewWidth">208</Setting>

@@ -40,11 +40,11 @@
 		<Left>104</Left>
 		<Top>0</Top>
 		<Right>1020</Right>
-		<Bottom>750</Bottom>
+		<Bottom>751</Bottom>
 	</TMainFormWindowPlacement.rcNormalPosition>
 	<CheckForUpdateOptions Type="TCheckForUpdateOptions">
 		<LatestOnlineVersion>-1</LatestOnlineVersion>
-		<LastAutomaticCheckForUpdate>46284.6374001042</LastAutomaticCheckForUpdate>
+		<LastAutomaticCheckForUpdate>46315.8086373843</LastAutomaticCheckForUpdate>
 		<CheckForUpdatesAutomatically>True</CheckForUpdatesAutomatically>
 	</CheckForUpdateOptions>
 	<ContextMenuEntries>1</ContextMenuEntries>
@@ -1867,7 +1867,12 @@
 	<IndicatorBarColor1>13432063</IndicatorBarColor1>
 	<IndicatorBarColor2>52479</IndicatorBarColor2>
 	<ViewType>3</ViewType>
-	<RecentlyScannedPaths Type="TRecentlyUsedStrings"></RecentlyScannedPaths>
+	<RecentlyScannedPaths Type="TRecentlyUsedStrings">
+		<Item>
+			<Path>D:\</Path>
+			<TimeStamp>46315.8087997685</TimeStamp>
+		</Item>
+	</RecentlyScannedPaths>
 	<MRUMaximum>16</MRUMaximum>
 	<GroupExtensionsByFileType>True</GroupExtensionsByFileType>
 	<ShowErrors>False</ShowErrors>
@@ -1876,7 +1881,7 @@
 	<PersistedExpression Type="TContainerExpression">
 		<Item Type="TExpressionAnd"></Item>
 	</PersistedExpression>
-	<AlwaysStartAsAdministrator>False</AlwaysStartAsAdministrator>
+	<AlwaysStartAsAdministrator>True</AlwaysStartAsAdministrator>
 	<AskForRestartAsAdministrator>True</AskForRestartAsAdministrator>
 	<RecentlyUsedFilePaths Type="TRecentlyUsedPaths"></RecentlyUsedFilePaths>
 	<OrientationLandscape>False</OrientationLandscape>

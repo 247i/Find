@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AntRenamer Version="2.13.0" Date="2026-08-25">
+<AntRenamer Version="2.13.0" Date="2026-10-20">
  <Forms>
   <Main State="0" Width="981" Height="644" Left="3" Top="0" AlwaysOnTop="True" FilesSortOrder="True" FilesSortColumn="-1" ActionsListWidth="295" BatchListHeight="100" EnableBatch="True" EnableSample="True" LogFilterOk="True" LogFilterError="True" LogFilterNot="True">
    <Toolbars>
